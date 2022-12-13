@@ -1,0 +1,22 @@
+{
+  "name": "funcode",
+  "displayName": "FunCode",
+  "description": "Colour theme that's a bit fun :)",
+
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FunCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/FunCode-color-theme.json"
+      }
+    ]
+  }
+}
