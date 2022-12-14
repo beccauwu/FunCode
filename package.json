@@ -1,9 +1,14 @@
 {
   "name": "funcode",
   "displayName": "FunCode",
-  "description": "Colour theme that's a bit fun :)",
+  "description": "Colour scheme that's a bit fun :)",
   "publisher": "beccauwu",
   "icon": "./assets/icon.png",
+  "galleryBanner": {
+    "color": "#bc84ff",
+    "theme": "dark"
+  },
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/beccauwu/FunCode/"
