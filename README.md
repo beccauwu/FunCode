@@ -9,3 +9,4 @@
 <img src="assets/funcode_demo.webp" alt="demo of theme"/>
 </p>
 <p align="center">Font used in demo: <a href="https://github.com/i-tu/Hasklig">Hasklig Medium</a></p>
+<p align="center"><a href="https://marketplace.visualstudio.com/items?itemName=beccauwu.funcode">VSCode Marketplace</a></p>
